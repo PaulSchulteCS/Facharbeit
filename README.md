@@ -1,11 +1,11 @@
 # Facharbeit
 
-Diese Repository enthält Programmcode und die LaTex Datei für meine Facharbeit
+Diese Repository enthÃ¤lt Programmcode und die LaTex Datei fÃ¼r meine Facharbeit
 
 ## Requirements
-Für das Ausführen werden einige Packages benötigt:
+FÃ¼r das AusfÃ¼hren werden einige Packages benÃ¶tigt:
 
-````python
+```python
 numpy
 scipy
 matplotlib
