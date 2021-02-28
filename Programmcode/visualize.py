@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import sys
 if __name__ == "__main__":
 
-	# aus Text-Dabei lesen
+	# aus Text-Datei lesen
 	try:
 		file = open("data.txt", "r")
 		lines = file.readlines()
