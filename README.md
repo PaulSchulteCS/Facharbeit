@@ -11,3 +11,4 @@ scipy
 matplotlib
 gym
 ```
+https://youtu.be/Xp02PP2fgyQ
